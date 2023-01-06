@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "es2021",
+    "module": "esnext",
+    "declaration": false,
+    "sourceMap": false,
+    "lib": ["esnext"],
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "strict": true,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "moduleResolution": "NodeNext",
+    "noEmit": true,
+    "allowJs": false,
+    "incremental": true,
+    "isolatedModules": true
+  }
+}
